@@ -1,8 +1,8 @@
-# GOOGLE PLAY STORE APP PERFORMANCE AND TRENDS
+ GOOGLE PLAY STORE APP PERFORMANCE AND TRENDS
 
 [Introduction](#Introduction)
 
-[Objective](Objective)
+[Objective](#Objective)
 
 [Story of Data](#StoryofData)
 
@@ -15,7 +15,6 @@
 [Post-Analysis and Insights](#Post-AnalysisandInsights)
 
 [Data Visualizations & Charts](#DataVisualizations&Charts)
-
 
 [Recommendations and Observations](#RecommendationsandObservations)
 
